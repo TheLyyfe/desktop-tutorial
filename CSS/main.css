@@ -1,0 +1,37 @@
+body{
+  width: 100%;
+  height: 100%;
+}
+.date
+{
+  text-decoration: underline;
+  font-style: italic;
+  opacity: 0.8;
+}
+
+h2
+{
+  text-decoration:underline;
+  font-weight: bold;
+}
+
+h1{
+  text-align: center;
+}
+
+.fa-html5{
+  color: #F16529; 
+}
+
+.fa-css3-alt{
+  color: #2299F8;
+}
+
+.fa-php{
+  color: #777BB3;
+}
+
+.fa-js{
+  color:#FFA500;
+}
+
